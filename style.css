@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(41, 40, 40)
+}
+p{
+    color: white;
+    font-size: 1rem;
+}
+.nadpis1{
+color: #acff2f;
+text-align: center;
+font-size: 3rem;
+}
+.podnadpis{
+    color: #acff2f;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.H2{
+    color: #acff2f;
+    font: size 2rem; ;
+}
+li{
+    color: white;
+}
+img{
+    width: 500px;
+    
+    border: solid #acff2f 2px;
+}
+table, td, th{
+    border-collapse:collapse ;
+    border: solid 2px #acff2f;
+    color: white;
+}
+a{
+    color: #acff2f;
+}
+footer
+{
+    color: white;
+    text-align: center;
+    font-size: 0.8rem;
+    border: solid black 4px;
+
+    
+}
